@@ -1,10 +1,6 @@
 <template>
-  <div class="hello">
-    <h1>{{ msg }}</h1>
-    <div>
-      <b-button>Я Кнопка</b-button>
-      <b-button href="#">Я Ссылка</b-button>
-    </div>
+  <div class="align-self-stretch">
+    <img src="../../img/leftPanel.jpg" class="rounded" alt="..." />
   </div>
 </template>
 
