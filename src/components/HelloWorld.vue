@@ -1,12 +1,15 @@
 <template>
   <div class="align-self-stretch">
+
     <img src="../../img/leftPanel.jpg" class="rounded" alt="..." />
+
   </div>
 </template>
 
 <script>
 export default {
   name: 'HelloWorld',
+  
   props: {
     msg: String,
   },
